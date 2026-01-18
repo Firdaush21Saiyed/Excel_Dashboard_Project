@@ -1,8 +1,10 @@
 # Excel_Dashboard_Project
 # SWIGGY EXCEL DASHBOARD PROJECT
-**PROBLEM STATEMENT**
+
 **This project involves creating an interactive Excel dashboard to analyze Swiggy food delivery data and track key business metrics such as orders, revenue, ratings, and customer preferences.
 The dashboard helps in understanding sales performance, restaurant insights, and customer behavior across different locations.**
+
+**PROBLEM STATEMENT**
 
 **KPI'S**
 
